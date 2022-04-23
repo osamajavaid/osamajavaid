@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @osamajavaid
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to contribute for Open Source
-- 📫 Reach me @0samaJavaid on Twitter
+- 👀 Interested in Programming
+- 🌱 Wanna taste all JavaScript frameworks
+- 💞️ contributer to Open Source
+- 📫 Reach me on Twitter @0samaJavaid
 
 <!---
 osamajavaid/osamajavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
