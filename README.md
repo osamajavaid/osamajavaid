@@ -9,7 +9,7 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 <!-- (https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) -->
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @HuzaTech
+- 🔭 I’m currently working at @jmm-technologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 😄 I believe in learning by building and being consistent in what I do.
 - 🤔 When I'm not coding, I am probably exploring new concepts, or thinking about my next project.
