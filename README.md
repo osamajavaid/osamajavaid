@@ -39,10 +39,10 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 <!--Github Stats-->
 <h2 align="center">⚡ Github</h2>
 <a href="https://github.com/hayatharoon/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatharoon&theme=blue-green&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=osamajavaid&theme=blue-green&show_icons=true)" />
 </a>
 <a href="https://github.com/hayatharoon/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayatharoon&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamajavaid&theme=chartreuse-dark" />
 </a>
 
 </details>
