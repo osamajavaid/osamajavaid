@@ -28,5 +28,21 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=osamajavaid.osamajavaid)
 
+<br>
+<h3 align="center"> Visitors count </h3>
+<p align="center">
+  <a href="https://github.com/ParthGohil21/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{hayatharoon}/count.svg" />
+    </a>
+  </p>
+
+<!--Github Stats-->
+<h2 align="center">⚡ Github</h2>
+<a href="https://github.com/hayatharoon/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hayatharoon&theme=blue-green&show_icons=true)" />
+</a>
+<a href="https://github.com/hayatharoon/github-readme-streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayatharoon&theme=chartreuse-dark" />
+</a>
 
 </details>
