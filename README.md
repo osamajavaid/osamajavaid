@@ -6,9 +6,6 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 
 [![Twitter Badge](https://img.shields.io/badge/-@iOsamaJavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iOsamaJavaid)](https://twitter.com/iOsamaJavaid) [![Linkedin Badge](https://img.shields.io/badge/-reachOsama-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reachOsama/) [![Mail Badge](https://img.shields.io/badge/-muhammadosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:muhammadosamajavaid@gmail.com)
 
-<!-- (https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) -->
-<!-- TODO: Add last video link -->
-
 - 🔭 I’m currently working at @jmm-technologies
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 😄 I believe in learning by building and being consistent in what I do.
@@ -17,16 +14,14 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 - 📫 How to reach me: muhammadosamajavaid@gmail.com.
 
 #### Tech Stack
-
 <!-- TODO: Make technologies links takes you to repositories -->
-
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
+  
+<!-- card -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=osamajavaid&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=osamajavaid.osamajavaid)
+<!-- visitor counter -->
 
 <br>
 <h3 align="center"> Visitors count </h3>
@@ -34,9 +29,6 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
   <a href="https://github.com/ParthGohil21/github-profile-count">
     <img align="center" src="https://profile-counter.glitch.me/{hayatharoon}/count.svg" />
     </a>
-  </p>
-  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=osamajavaid&theme=dark&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
 
 </details>
