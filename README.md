@@ -24,7 +24,7 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 <!-- visitor counter -->
 
 <br>
-<h3> Visitors count </h3>
+<h3> Visitors counter </h3>
 <p>
   <a href="https://github.com/ParthGohil21/github-profile-count">
     <img align="center" src="https://profile-counter.glitch.me/{osamajavaid}/count.svg" />
