@@ -11,7 +11,7 @@ I'm Muhammad Osama Javaid, a Full Stack Web Developer and a tech blogger. I Spen
 - 😄 I believe in learning by building and being consistent in what I do.
 - 🤔 When I'm not coding, I am probably exploring new concepts, or thinking about my next project.
 - ⚡ Fun fact: I play games and go to the GYM very often.
-- 📫 How to reach me: muhammadosamajavaid@gmail.com.
+- 📫 How to reach me: iosamajavaid@gmail.com.
 
 #### Tech Stack
 <!-- TODO: Make technologies links takes you to repositories -->
