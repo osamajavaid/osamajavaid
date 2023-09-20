@@ -4,7 +4,7 @@ I'm Muhammad Osama Javaid, a full stack web developer and a tech blogger. I spen
 
 :mailbox: Reach me out!!
 
-[![Twitter Badge](https://img.shields.io/badge/-@iOsamaJavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iOsamaJavaid)](https://twitter.com/iOsamaJavaid) [![Linkedin Badge](https://img.shields.io/badge/-iosamajavaid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosamajavaid/) [![Mail Badge](https://img.shields.io/badge/-iosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iosamajavaid@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@iosamajavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iosamajavaid)](https://twitter.com/iosamajavaid) [![Linkedin Badge](https://img.shields.io/badge/-iosamajavaid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosamajavaid/) [![Mail Badge](https://img.shields.io/badge/-iosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iosamajavaid@gmail.com)
 
 - 🔭 I’m currently working at <a href="https://jmm.ltd/" target="_blank"> JMM Technologies </a>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
