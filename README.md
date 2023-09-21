@@ -2,7 +2,7 @@
 
 My name is Muhammad Osama Javaid and I'm a software developer. I'm from Pakistan, living in Peshawar and currently working as a Full-time Software Engineer at JMM Technologies.
 
-:mailbox: Reach me out!!
+:mailbox: Reach me out!! <br>
  [![Twitter Badge](https://img.shields.io/badge/-@iosamajavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iosamajavaid)](https://twitter.com/iosamajavaid) [![Linkedin Badge](https://img.shields.io/badge/-iosamajavaid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosamajavaid/) [![Mail Badge](https://img.shields.io/badge/-iosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iosamajavaid@gmail.com)
 ## Things you should know
 
