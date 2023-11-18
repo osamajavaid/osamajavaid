@@ -10,7 +10,6 @@ My name is Muhammad Osama Javaid and I'm a software developer. I'm from Pakistan
 - 🌱 <b>Getting better at:</b>  Javascript, Datastructure & Algorithms
 - 🤔 <b>Exploring:</b> Nodejs
 - ⚗️ <b>Experimenting on:</b> ComponentsUI (free code blocks)
-- 😄 I believe in learning by building and being consistent in what I do.
 - 💬 <b>Ask me about:</b> Javascript, Reactjs, Nextjs
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:iosamajavaid@gmail.com" target="_blank">iosamajavaid@gmail.com</a>
 
