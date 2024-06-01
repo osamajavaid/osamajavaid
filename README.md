@@ -6,11 +6,11 @@ My name is Muhammad Osama Javaid and I'm a software developer. I'm from Pakistan
  [![Twitter Badge](https://img.shields.io/badge/-@iosamajavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iosamajavaid)](https://twitter.com/iosamajavaid) [![Linkedin Badge](https://img.shields.io/badge/-iosamajavaid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosamajavaid/) [![Mail Badge](https://img.shields.io/badge/-iosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iosamajavaid@gmail.com)
 ## Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Next.js, REST API's.
-- 🌱 <b>Getting better at:</b>  Javascript, Datastructure & Algorithms
-- 🤔 <b>Exploring:</b> Nodejs
+- 🔭 <b>Currently working on:</b> React.js, Next.js, REST API's, GraphQL.
+- 🌱 <b>Getting better at:</b>  Javascript, Datastructure & Algorithms.
+- 🤔 <b>Exploring:</b> New Webstacks
 - ⚗️ <b>Experimenting on:</b> ComponentsUI (free code blocks)
-- 💬 <b>Ask me about:</b> Javascript, Reactjs, Nextjs
+- 💬 <b>Ask me about:</b> MERN stack Related.
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:iosamajavaid@gmail.com" target="_blank">iosamajavaid@gmail.com</a>
 
 #### Tech Stack
