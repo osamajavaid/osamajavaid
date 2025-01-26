@@ -1,16 +1,8 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My name is Muhammad Osama Javaid and I'm a software developer, from Pakistan, living in Peshawar and currently working as a Full-time Software Engineer at JMM Technologies.
-
-:mailbox: Reach me out!! <br>
- [![Twitter Badge](https://img.shields.io/badge/-@iosamajavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iosamajavaid)](https://twitter.com/iosamajavaid) [![Linkedin Badge](https://img.shields.io/badge/-iosamajavaid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosamajavaid/) [![Mail Badge](https://img.shields.io/badge/-iosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iosamajavaid@gmail.com)
-## Things you should know
-
-- 🔭 <b>Currently working on:</b> React.js, Next.js, REST API's, GraphQL.
-- 🌱 <b>Getting better at:</b>  Javascript, Datastructure & Algorithms.
-- 🤔 <b>Exploring:</b> New Webstacks
-- ⚗️ <b>Experimenting on:</b> ComponentsUI (free code blocks)
-- 💬 <b>Ask me about:</b> MERN stack Related.
+- 🔭 <b>Currently working as:</b> MERN Stack Developer.
+- 🌱 <b>Getting hands dirty on:</b>  Typescript.
+- 🤔 <b>Exploring:</b> Prisma and Postgreql
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:iosamajavaid@gmail.com" target="_blank">iosamajavaid@gmail.com</a>
 
 ## 💼 Tech Stacks
@@ -37,5 +29,9 @@ My name is Muhammad Osama Javaid and I'm a software developer, from Pakistan, li
     <img align="center" src="https://profile-counter.glitch.me/{osamajavaid}/count.svg" />
     </a>
 </p>
+
+:mailbox: Reach me out!! <br>
+ [![Twitter Badge](https://img.shields.io/badge/-@iosamajavaid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iosamajavaid)](https://twitter.com/iosamajavaid) [![Linkedin Badge](https://img.shields.io/badge/-iosamajavaid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosamajavaid/) [![Mail Badge](https://img.shields.io/badge/-iosamajavaid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iosamajavaid@gmail.com)
+## Things you should know
 
 </details>
