@@ -20,4 +20,4 @@
 
 <br/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iosamajavaid&theme=default&hide_border=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=osamajavaid&theme=default&hide_border=true)
