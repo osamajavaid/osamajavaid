@@ -1,10 +1,8 @@
 ### about.
 
-Frontend Engineer with 04+ years of experience specializing in modern frontend development,
+frontend engineer with 04+ years of experience specializing in modern frontend development,
 building scalable, responsive, and high-performance web applications with a strong focus on user
-experience, performance, and maintainable architecture
-
----
+experience, performance, and maintainable architecture.
 
 ### elsewhere.
 
